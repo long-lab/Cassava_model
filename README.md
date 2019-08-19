@@ -1,6 +1,6 @@
 # Cassava_model
 
-This cassava leaf model is developed by Yu Wang, IGB, University of Illinois. The metabolic model part is developed based on the general C3 photosynthesis model (Zhu et al., 2007). If you want to know more details, please check the file’ Appendix cassava model equations and parameters.docx’
+This cassava leaf model is developed by Yu Wang(yuwangcn@illinois.edu), IGB, University of Illinois. The metabolic model part is developed based on the general C3 photosynthesis model (Zhu et al., 2007). If you want to know more details, please check the file’ Appendix cassava model equations and parameters.docx’
 
 Quick start
 
