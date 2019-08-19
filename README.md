@@ -26,8 +26,10 @@ PRca=1 Consider Rubisco activation process
 Cassava parameter file: 
 
 cassavaP2.txt.
+
 Cultivar	Vcmax25	Jmax25	kd	Ki	Ball-Berry Slop	Ball-Berry Intercept
 
 Output: 
+
 Transpiration(mol m-2 day-1)	 Photosynthesis(mol m-2 day-1)
 
