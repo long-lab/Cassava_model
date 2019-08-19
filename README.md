@@ -7,12 +7,15 @@ Quick start
 Measured light intensity simulation:
 
 RAC3leafMetaDriveLight(Lightinputfile,Pst,PRca)
+
 An example command: RAC3leafMetaDriveLight('bon18182.dat',0,0)
 
 High low light simulation:
 
 RAC3leafMetaDriveLight2(Lightinputfile,Pst,PRca)
+
 An example command: AC3leafMetaDriveLight2('Light150015.txt',0,0)
+
 
 Input parameters:
 
@@ -28,6 +31,7 @@ Cassava parameter file:
 cassavaP2.txt.
 
 Cultivar	Vcmax25	Jmax25	kd	Ki	Ball-Berry Slop	Ball-Berry Intercept
+
 
 Output: 
 
